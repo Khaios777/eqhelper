@@ -1,0 +1,6 @@
+C:\Users\Dave\Desktop\EQHelper\Source\EQHelperCore\bin\Release\EQHelperCore.dll
+C:\Users\Dave\Desktop\EQHelper\Source\EQHelperCore\bin\Release\EQHelperCore.pdb
+C:\Users\Dave\Desktop\EQHelper\Source\EQHelperCore\obj\Release\Interop.AutoItX3Lib.dll
+C:\Users\Dave\Desktop\EQHelper\Source\EQHelperCore\obj\Release\EQHelperCore.csproj.ResolveComReference.cache
+C:\Users\Dave\Desktop\EQHelper\Source\EQHelperCore\obj\Release\EQHelperCore.dll
+C:\Users\Dave\Desktop\EQHelper\Source\EQHelperCore\obj\Release\EQHelperCore.pdb
