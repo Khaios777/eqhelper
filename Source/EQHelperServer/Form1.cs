@@ -41,7 +41,7 @@ namespace EQHelperServer
             FillTimedKeybindSection();
 
             // this is used for the server PC to toggle a timed command (i use it for cleric legs)
-            serverSendingKeys = new ServerSendingKeys(mainSettings.serverSendingKeyCommand);
+            //serverSendingKeys = new ServerSendingKeys(mainSettings.serverSendingKeyCommand);
 
             SetupKeyboardHooks();
 

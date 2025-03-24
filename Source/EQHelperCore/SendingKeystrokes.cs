@@ -125,11 +125,10 @@ namespace EQHelperCore
 
         public void StopCast2()
         {
-            if (stopCastKey != "")
-                AutoIt.Send(stopCastKey);
+            if (stopCastKey == "")
+                return;
 
-            //Console.WriteLine(stopCastKey);
-
+            AutoIt.Send(stopCastKey);
             Thread.Sleep(300);
 
             if (stopMacroKey != "")
